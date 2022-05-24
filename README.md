@@ -6,5 +6,5 @@
 - [Measurement Problems](https://github.com/emreclsr/Measurement_Problems)
 - [Feature Engineering](https://github.com/emreclsr/Feature_Engineering)
 - [Machine Learning](https://github.com/emreclsr/Machine_Learning)
-- Time Series
+- [Time Series](https://github.com/emreclsr/Time_Series)
 - Natural Language Processing
