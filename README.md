@@ -5,6 +5,6 @@
 - [Recommender Systems](https://github.com/emreclsr/Recommender_Systems)
 - [Measurement Problems](https://github.com/emreclsr/Measurement_Problems)
 - [Feature Engineering](https://github.com/emreclsr/Feature_Engineering)
-- Machine Learning
+- [Machine Learning](https://github.com/emreclsr/Machine_Learning)
 - Time Series
 - Natural Language Processing
