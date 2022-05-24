@@ -7,4 +7,4 @@
 - [Feature Engineering](https://github.com/emreclsr/Feature_Engineering)
 - [Machine Learning](https://github.com/emreclsr/Machine_Learning)
 - [Time Series](https://github.com/emreclsr/Time_Series)
-- Natural Language Processing
+- [Natural Language Processing](https://github.com/emreclsr/Natural_Language_Processing)
